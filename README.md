@@ -29,5 +29,7 @@ npm run build
 ## Contact
 
 **Anatolii Tserkunyk**
+
 ***cerkunik@gmail.com***
+
 [LinkedIn](https://www.linkedin.com/in/anatolii-tserkunyk/)
