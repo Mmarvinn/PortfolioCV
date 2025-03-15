@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: 'TheNavbar',
+  name: 'MainPage',
 
   setup() {
     return {};

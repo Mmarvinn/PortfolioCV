@@ -1,16 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import Tasks from '@/views/Tasks.vue';
-import NewTask from '@/views/New.vue';
-import Task from '@/views/Task.vue';
+import MainPage from '@/views/MainPage.vue';
 
 export default createRouter({
   history: createWebHistory(),
 
-  routes: [
-    { path: '/', component: Tasks },
-    { path: '/new', component: NewTask },
-    { path: '/todo/:id', component: Task, props: true },
-  ],
+  routes: [{ path: '/', component: MainPage }],
 
   linkActiveClass: 'active',
   linkExactActiveClass: 'active',
