@@ -1,8 +1,33 @@
-# React + Vite
+# Portfolio CV
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+A personal portfolio website built with Vue 3 to showcase my professional background, technical skills, and project portfolio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Professional summary
+- Technical skills showcase
+- Project portfolio
+- Work experience
+- Education background
+- Contact information
+
+## Setup
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run serve
+
+# Build for production
+npm run build
+```
+
+## Contact
+
+**Anatolii Tserkunyk**
+***cerkunik@gmail.com***
+[LinkedIn](https://www.linkedin.com/in/anatolii-tserkunyk/)
